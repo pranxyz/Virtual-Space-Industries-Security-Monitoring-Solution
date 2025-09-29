@@ -18,5 +18,5 @@ Aanlyse attack logs and then design a custom monitoring solution using Splunk, w
 
 ### Project
 
- <a href="https://github.com/pranxyz/Secure-Azure-Web-Application/blob/main/Pranay%20Yara%20Azure%20Web%20App.pdf">Attack Logs Investigation</a>
- <a href="https://github.com/pranxyz/Secure-Azure-Web-Application/blob/main/Pranay%20Yara%20Azure%20Web%20App.pdf">Solution Report</a>
+ <a href="https://github.com/pranxyz/Virtual-Space-Industries-Security-Monitoring-Solution/blob/main/Virtual%20Space%20Industries%20Security%20Monitoring%20Solution%20Attack%20Logs%20Investigation.pdf">Attack Logs Investigation</a>
+ <a href="https://github.com/pranxyz/Virtual-Space-Industries-Security-Monitoring-Solution/blob/main/Virtual%20Space%20Industries%20Security%20Monitoring%20Solution%20Presentation.pdf">Solution Report</a>
